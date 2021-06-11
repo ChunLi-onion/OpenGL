@@ -24,3 +24,9 @@
 ## 3. 模型
    + Assimp库运用，解析obj文件，创建个人Model，Mesh类
      
+## 4. Advanced OpenGL
+   + 深度测试及模板测试
+   + blend 
+   + 自定义帧缓冲，运用kernel后期处理图像，离屏渲染
+   + 立方体贴图，加入天空盒，使用反射折射采样制造不同材质
+   ![折射](https://user-images.githubusercontent.com/37112883/121682228-65919900-caee-11eb-8d94-d3c3f87f9481.jpg)
